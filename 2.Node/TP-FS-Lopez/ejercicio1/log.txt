@@ -1,0 +1,3 @@
+[2025-10-02 09:03:26] - Inicio del programa
+[2025-10-02 09:03:26] - Ejecutando tarea
+[2025-10-02 09:03:31] - Tarea completada
